@@ -1,0 +1,5 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Little Hunter" hp="12" bombs="1" skinColor="-1"
+            skin="character_001_isaac.png" portrait="playerportrait_samson.png"
+            nameimage="playername_little_hunter.png" />
+</players>

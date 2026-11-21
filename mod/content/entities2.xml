@@ -1,0 +1,24 @@
+<entities anm2root="gfx/" version="5">
+    <entity id="1000" variant="2731" name="Longsword Combat Render Host"
+            anm2path="isacc_longsword/render_host.anm2" shadowSize="0" />
+    <entity id="1000" variant="2732" name="Longsword Palico"
+            anm2path="001.001_player2.anm2" shadowSize="6" />
+    <entity id="5" variant="2734" subtype="0" name="Longsword Hunt Material"
+            anm2path="longsword_hunt_material.anm2" collisionRadius="11" collisionDamage="0"
+            collisionMass="3" friction="1" numGridCollisionPoints="12" shadowSize="12" />
+    <entity id="5" variant="2734" subtype="1" name="Longsword Hunt Material I"
+            anm2path="longsword_hunt_material.anm2" collisionRadius="11" collisionDamage="0"
+            collisionMass="3" friction="1" numGridCollisionPoints="12" shadowSize="12" />
+    <entity id="5" variant="2734" subtype="2" name="Longsword Hunt Material II"
+            anm2path="longsword_hunt_material.anm2" collisionRadius="11" collisionDamage="0"
+            collisionMass="3" friction="1" numGridCollisionPoints="12" shadowSize="12" />
+    <entity id="1000" variant="2735" name="Longsword Hunt Remains"
+            anm2path="longsword_hunt_remains.anm2" collisionRadius="0" collisionDamage="0" shadowSize="15" />
+    <entity id="1000" variant="2736" name="Longsword Guild Counter"
+            anm2path="005.056_wooden chest.anm2" collisionRadius="0" collisionDamage="0" shadowSize="10" />
+    <entity id="1000" variant="2737" name="Longsword Scout Track"
+            anm2path="longsword_scout_tracks.anm2" collisionRadius="0" collisionDamage="0" shadowSize="0" />
+    <entity id="5" variant="2738" subtype="0" name="Longsword Hunter Supply Box"
+            anm2path="isacc_longsword/hunter_supply_box.anm2" collisionRadius="12" collisionDamage="0"
+            collisionMass="3" friction="1" numGridCollisionPoints="24" shadowSize="27" />
+</entities>

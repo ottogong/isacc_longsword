@@ -1,0 +1,6 @@
+/*
+!/.gitignore
+!/.github/
+/.github/*
+!/.github/README.md
+!/mod/

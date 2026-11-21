@@ -1,0 +1,20 @@
+<sounds root="sfx/">
+    <sound name="Longsword Hit">
+        <sample weight="1" path="longsword/hit.wav" />
+    </sound>
+    <sound name="Longsword Draw">
+        <sample weight="1" path="longsword/draw.wav" />
+    </sound>
+    <sound name="Longsword GP">
+        <sample weight="1" path="longsword/gp.wav" />
+    </sound>
+    <sound name="Longsword Helm">
+        <sample weight="1" path="longsword/helm.wav" />
+    </sound>
+    <sound name="Longsword Helm Hit">
+        <sample weight="1" path="longsword/helm_hit.wav" />
+    </sound>
+    <sound name="Longsword Helm Finish">
+        <sample weight="1" path="longsword/helm_finish.wav" />
+    </sound>
+</sounds>

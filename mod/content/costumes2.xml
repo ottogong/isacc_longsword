@@ -1,0 +1,3 @@
+<costumes anm2root="gfx/characters/">
+    <costume anm2path="rathalos_helmet.anm2" type="none" priority="1001" />
+</costumes>

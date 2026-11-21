@@ -1,0 +1,36 @@
+<items gfxroot="gfx/items/" version="1">
+    <active name="Hellish Slasher" description="A longsword for Spirit Slashes and Iai counters" gfx="collectibles_isacc_longsword.png" maxcharges="0" chargetype="normal" quality="0" hidden="true" craftquality="-1" />
+    <passive name="Hunting Material" description="+1 material" gfx="collectibles_541_marrow.png" quality="0" hidden="true" craftquality="-1" />
+    <passive name="Hunting Materials Bundle" description="+2 materials" gfx="collectibles_541_marrow.png" quality="0" hidden="true" craftquality="-1" />
+    <passive name="Quick Sheathe Braces" description="Enter Special Sheathe 15% sooner" gfx="collectibles_219_oldbandage.png" quality="1" craftquality="-1" />
+    <passive name="Quick Sheathe Braces+" description="Enter Special Sheathe 25% sooner" gfx="collectibles_219_oldbandage.png" quality="1" craftquality="-1" />
+    <passive name="Leaping Greaves" description="Iai and Helm Breaker crit chance +15 percentage points" gfx="collectibles_571_socks.png" quality="1" craftquality="-1" />
+    <passive name="Leaping Greaves+" description="Iai and Helm Breaker crit chance +30 percentage points" gfx="collectibles_571_socks.png" quality="1" craftquality="-1" />
+    <passive name="First Aid Pouch" description="Heal half a red heart on your first boss room visit each floor" gfx="collectibles_204_fannypack.png" quality="1" craftquality="-1" />
+    <passive name="First Aid Pouch+" description="Heal one red heart on your first boss room visit each floor" gfx="collectibles_204_fannypack.png" quality="1" craftquality="-1" />
+    <passive name="Fang Charm" description="An Iai counter fires three blood tears" gfx="collectibles_086_monstrostooth.png" quality="1" craftquality="-1" />
+    <passive name="Fly Sac Palico Suit" description="Each sword hit has a 20% chance to release a blue fly from your Palico" gfx="collectibles_151_themulligan.png" quality="2" craftquality="-1" />
+    <passive name="Knight's Spur" description="Dodge while sheathed to send your Palico pouncing at a nearby enemy" gfx="collectibles_130_apony.png" quality="1" craftquality="-1" />
+    <passive name="Knight's Spur+" description="Palico pounces triggered by a sheathed dodge deal 1 extra damage" gfx="collectibles_181_whitepony.png" quality="2" craftquality="-1" />
+    <active name="天上天下天地无双刀" description="挥出气刃斩，纳刀后可用居合反击" gfx="collectibles_isacc_longsword.png" maxcharges="0" chargetype="normal" quality="0" hidden="true" craftquality="-1" />
+    <passive name="ATT Lv.1" description="Attack Boost +1 skill level while held" gfx="collectibles_ls_jewel_attack.png" quality="1" craftquality="-1" />
+    <passive name="ATT Lv.2" description="Attack Boost +2 skill levels while held" gfx="collectibles_ls_jewel_attack.png" quality="1" craftquality="-1" />
+    <passive name="ATT Lv.3" description="Attack Boost +3 skill levels while held" gfx="collectibles_ls_jewel_attack.png" quality="1" craftquality="-1" />
+    <passive name="ATT Lv.4" description="Attack Boost +4 skill levels while held" gfx="collectibles_ls_jewel_attack.png" quality="1" craftquality="-1" />
+    <passive name="Expert Lv.1" description="Critical Eye +1 skill level while held" gfx="collectibles_ls_jewel_expert.png" quality="1" craftquality="-1" />
+    <passive name="Expert Lv.2" description="Critical Eye +2 skill levels while held" gfx="collectibles_ls_jewel_expert.png" quality="1" craftquality="-1" />
+    <passive name="Expert Lv.3" description="Critical Eye +3 skill levels while held" gfx="collectibles_ls_jewel_expert.png" quality="1" craftquality="-1" />
+    <passive name="Expert Lv.4" description="Critical Eye +4 skill levels while held" gfx="collectibles_ls_jewel_expert.png" quality="1" craftquality="-1" />
+    <passive name="Crit Boost Lv.1" description="Critical Boost +1 skill level while held" gfx="collectibles_ls_jewel_critical.png" quality="1" craftquality="-1" />
+    <passive name="Crit Boost Lv.2" description="Critical Boost +2 skill levels while held" gfx="collectibles_ls_jewel_critical.png" quality="1" craftquality="-1" />
+    <passive name="Crit Boost Lv.3" description="Max Critical Boost! Critical hits deal 1.40x damage" gfx="collectibles_ls_jewel_critical.png" quality="1" craftquality="-1" />
+    <passive name="Crit Boost Lv.4" description="Max Critical Boost! Critical hits deal 1.40x damage" gfx="collectibles_ls_jewel_critical.png" quality="1" craftquality="-1" />
+    <passive name="Reach Lv.1" description="Blade Reach +1 skill level while held" gfx="collectibles_ls_jewel_reach.png" quality="1" craftquality="-1" />
+    <passive name="Reach Lv.2" description="Blade Reach +2 skill levels while held" gfx="collectibles_ls_jewel_reach.png" quality="1" craftquality="-1" />
+    <passive name="Reach Lv.3" description="Blade Reach +3 skill levels while held" gfx="collectibles_ls_jewel_reach.png" quality="1" craftquality="-1" />
+    <passive name="Reach Lv.4" description="Blade Reach +4 skill levels while held" gfx="collectibles_ls_jewel_reach.png" quality="1" craftquality="-1" />
+    <passive name="Attack Speed Lv.1" description="Attack Speed +1 skill level while held" gfx="collectibles_ls_jewel_speed.png" quality="1" craftquality="-1" />
+    <passive name="Attack Speed Lv.2" description="Attack Speed +2 skill levels while held" gfx="collectibles_ls_jewel_speed.png" quality="1" craftquality="-1" />
+    <passive name="Attack Speed Lv.3" description="Attack Speed +3 skill levels while held" gfx="collectibles_ls_jewel_speed.png" quality="1" craftquality="-1" />
+    <passive name="Attack Speed Lv.4" description="Attack Speed +4 skill levels while held" gfx="collectibles_ls_jewel_speed.png" quality="1" craftquality="-1" />
+</items>
