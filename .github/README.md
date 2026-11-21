@@ -4,9 +4,7 @@
 
 ## 安装与开局
 
-最方便的安装方式是[订阅 Steam 创意工坊版](https://steamcommunity.com/sharedfiles/filedetails/?id=3842810397)。
-
-手动安装时，把下载包中的整份 `mod` 文件夹复制到游戏的 `mods` 目录，再把复制过去的文件夹改名为 `isacc_longsword`。确认文件位于 `mods/isacc_longsword/main.lua`。在游戏的 Mods 菜单启用太刀 Mod，单人新开一局并选择「小猎人 / Little Hunter」。
+[在 Steam 创意工坊订阅《小猎人》](https://steamcommunity.com/sharedfiles/filedetails/?id=3842810397)。订阅后，在游戏的 Mods 菜单启用《小猎人》，单人新开一局并选择「小猎人 / Little Hunter」。
 
 WASD 移动，鼠标决定出刀方向。点左键直斩，按住接蓄力，蓄满松开打出大回旋。点右键戳刺，按住接上挑。长按鼠标后侧键打气刃连段。
 
